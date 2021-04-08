@@ -1,6 +1,6 @@
 # stations_map
 
-This the python code for plottinga  map of seismological stations using PyGMT 
+This the python code for plotting map of seismological stations using PyGMT 
 
  Ubuntu 18.04, Python 3.7.8, GMT 6.0.0 and pygmt 0.1.2
 
